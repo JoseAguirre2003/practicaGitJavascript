@@ -1,16 +1,6 @@
+const cacl = require('./clases/calculadora');
+
 console.log("Bienvenidos a los juegos")
-
-
-/**
- *  
- * 
- * 
- * 
- * 
- * 
- * 
- */
-
 
 
 // imprime las salidas correspondientes 
@@ -23,4 +13,3 @@ console.log("Bienvenidos a los juegos")
 
     //divide el resultado de la multiplicacion entre 50
 // 
-
