@@ -8,7 +8,7 @@ class Calculadora{
     }
 
     resta=(a,b)=>{
-        return a+b
+        return a-b
     }
 
     multiplicacion =(a,b)=>{
